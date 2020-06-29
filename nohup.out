@@ -1,0 +1,115 @@
+[I 21:09:58.673 LabApp] JupyterLab extension loaded from /Users/fujiccofujimoto/.pyenv/versions/Anaconda3-2019.10/lib/python3.7/site-packages/jupyterlab
+[I 21:09:58.673 LabApp] JupyterLab application directory is /Users/fujiccofujimoto/.pyenv/versions/Anaconda3-2019.10/share/jupyter/lab
+[I 21:09:58.676 LabApp] Serving notebooks from local directory: /Users/fujiccofujimoto
+[I 21:09:58.676 LabApp] The Jupyter Notebook is running at:
+[I 21:09:58.676 LabApp] http://localhost:8888/?token=b7f367dcf0136a6f5828c2d49bba33891b26f599b72e6db7
+[I 21:09:58.676 LabApp]  or http://127.0.0.1:8888/?token=b7f367dcf0136a6f5828c2d49bba33891b26f599b72e6db7
+[I 21:09:58.676 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 21:09:58.700 LabApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/fujiccofujimoto/Library/Jupyter/runtime/nbserver-14945-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=b7f367dcf0136a6f5828c2d49bba33891b26f599b72e6db7
+     or http://127.0.0.1:8888/?token=b7f367dcf0136a6f5828c2d49bba33891b26f599b72e6db7
+[I 21:10:04.286 LabApp] Build is up to date
+[I 21:10:07.972 LabApp] Kernel started: 9cdd6279-796d-416c-b455-f226c6ccc80a
+[I 21:10:08.022 LabApp] Kernel started: 4034cecb-2aad-4082-8397-95d19c6573b7
+[I 21:10:08.060 LabApp] Kernel started: f3632313-070d-4d8e-8b43-bfbc465879c5
+[I 21:10:08.095 LabApp] Kernel started: 430e2f0c-71a6-4e71-88db-0be5f5811a6d
+[I 21:10:08.234 LabApp] Kernel started: fd5014e0-e008-42bd-b925-a19e1a791110
+[I 21:10:46.867 LabApp] Creating new directory in /Google Drive/work
+[I 21:11:03.148 LabApp] Creating new notebook in /Google Drive/work/10.画像処理
+[I 21:11:04.130 LabApp] Kernel started: c7225c56-1819-4bdf-93e0-e8888a433ab4
+OpenCV: Couldn't read video stream from file "data/temp/sample_video.mp4"
+[I 21:13:03.673 LabApp] Saving file at /Google Drive/work/10.画像処理/動画静止画変換.ipynb
+[I 21:14:16.411 LabApp] Starting buffering for c7225c56-1819-4bdf-93e0-e8888a433ab4:083f5d59-c041-40c9-9199-e57156ac433d
+[I 21:14:23.848 LabApp] Starting buffering for 9cdd6279-796d-416c-b455-f226c6ccc80a:4abdef86-99ce-4b59-8925-2792d0f21061
+[W 21:14:35.966 LabApp] 400 GET /api/contents/Google%20Drive/work/10.%E7%94%BB%E5%83%8F%E5%87%A6%E7%90%86/clip.mov?format=text&type=file&content=1&1593346475434 (::1): /Users/fujiccofujimoto/Google Drive/work/10.画像処理/clip.mov is not UTF-8 encoded
+[W 21:14:35.967 LabApp] /Users/fujiccofujimoto/Google Drive/work/10.画像処理/clip.mov is not UTF-8 encoded
+[W 21:14:36.009 LabApp] 400 GET /api/contents/Google%20Drive/work/10.%E7%94%BB%E5%83%8F%E5%87%A6%E7%90%86/clip.mov?format=text&type=file&content=1&1593346475434 (::1) 530.06ms referer=http://localhost:8888/lab
+[I 21:18:00.903 LabApp] Saving file at /Google Drive/work/10.画像処理/動画静止画変換.ipynb
+[I 21:18:11.136 LabApp] Kernel interrupted: c7225c56-1819-4bdf-93e0-e8888a433ab4
+[I 21:18:49.043 LabApp] Kernel interrupted: c7225c56-1819-4bdf-93e0-e8888a433ab4
+[I 21:20:01.475 LabApp] Saving file at /Google Drive/work/10.画像処理/動画静止画変換.ipynb
+[I 21:22:01.885 LabApp] Saving file at /Google Drive/work/10.画像処理/動画静止画変換.ipynb
+[I 21:48:15.640 LabApp] Starting buffering for fd5014e0-e008-42bd-b925-a19e1a791110:1050fe7e-4392-49d6-b9da-5294908fa46f
+[I 21:48:15.667 LabApp] Starting buffering for 430e2f0c-71a6-4e71-88db-0be5f5811a6d:eb0340a9-27a8-4426-bade-059ed4f95627
+[I 21:48:15.672 LabApp] Starting buffering for f3632313-070d-4d8e-8b43-bfbc465879c5:f1677dbe-6dce-4c95-99e0-29077f8613c6
+[I 21:48:15.675 LabApp] Starting buffering for 4034cecb-2aad-4082-8397-95d19c6573b7:9bff8e3a-b4f3-4899-82f1-20c2bdbd3866
+[I 21:48:15.682 LabApp] Starting buffering for c7225c56-1819-4bdf-93e0-e8888a433ab4:d4c729e1-5d3a-4cef-b1d5-6f4afd0dd7be
+[I 21:48:18.349 LabApp] Restoring connection for fd5014e0-e008-42bd-b925-a19e1a791110:1050fe7e-4392-49d6-b9da-5294908fa46f
+[I 21:48:18.363 LabApp] Restoring connection for 430e2f0c-71a6-4e71-88db-0be5f5811a6d:eb0340a9-27a8-4426-bade-059ed4f95627
+[I 21:48:18.381 LabApp] Restoring connection for f3632313-070d-4d8e-8b43-bfbc465879c5:f1677dbe-6dce-4c95-99e0-29077f8613c6
+[I 21:48:18.412 LabApp] Restoring connection for 4034cecb-2aad-4082-8397-95d19c6573b7:9bff8e3a-b4f3-4899-82f1-20c2bdbd3866
+[I 21:48:18.430 LabApp] Restoring connection for c7225c56-1819-4bdf-93e0-e8888a433ab4:d4c729e1-5d3a-4cef-b1d5-6f4afd0dd7be
+[I 03:59:33.331 LabApp] Starting buffering for c7225c56-1819-4bdf-93e0-e8888a433ab4:d4c729e1-5d3a-4cef-b1d5-6f4afd0dd7be
+[I 03:59:33.346 LabApp] Starting buffering for 4034cecb-2aad-4082-8397-95d19c6573b7:9bff8e3a-b4f3-4899-82f1-20c2bdbd3866
+[I 03:59:33.354 LabApp] Starting buffering for f3632313-070d-4d8e-8b43-bfbc465879c5:f1677dbe-6dce-4c95-99e0-29077f8613c6
+[I 03:59:33.359 LabApp] Starting buffering for 430e2f0c-71a6-4e71-88db-0be5f5811a6d:eb0340a9-27a8-4426-bade-059ed4f95627
+[I 03:59:33.379 LabApp] Starting buffering for fd5014e0-e008-42bd-b925-a19e1a791110:1050fe7e-4392-49d6-b9da-5294908fa46f
+[I 03:59:35.099 LabApp] Restoring connection for c7225c56-1819-4bdf-93e0-e8888a433ab4:d4c729e1-5d3a-4cef-b1d5-6f4afd0dd7be
+[I 03:59:35.122 LabApp] Restoring connection for 4034cecb-2aad-4082-8397-95d19c6573b7:9bff8e3a-b4f3-4899-82f1-20c2bdbd3866
+[I 03:59:35.136 LabApp] Restoring connection for f3632313-070d-4d8e-8b43-bfbc465879c5:f1677dbe-6dce-4c95-99e0-29077f8613c6
+[I 03:59:35.151 LabApp] Restoring connection for 430e2f0c-71a6-4e71-88db-0be5f5811a6d:eb0340a9-27a8-4426-bade-059ed4f95627
+[I 03:59:35.165 LabApp] Restoring connection for fd5014e0-e008-42bd-b925-a19e1a791110:1050fe7e-4392-49d6-b9da-5294908fa46f
+[I 05:45:38.059 LabApp] Starting buffering for fd5014e0-e008-42bd-b925-a19e1a791110:1050fe7e-4392-49d6-b9da-5294908fa46f
+[I 05:45:38.070 LabApp] Starting buffering for 430e2f0c-71a6-4e71-88db-0be5f5811a6d:eb0340a9-27a8-4426-bade-059ed4f95627
+[I 05:45:38.073 LabApp] Starting buffering for f3632313-070d-4d8e-8b43-bfbc465879c5:f1677dbe-6dce-4c95-99e0-29077f8613c6
+[I 05:45:38.075 LabApp] Starting buffering for 4034cecb-2aad-4082-8397-95d19c6573b7:9bff8e3a-b4f3-4899-82f1-20c2bdbd3866
+[I 05:45:38.087 LabApp] Starting buffering for c7225c56-1819-4bdf-93e0-e8888a433ab4:d4c729e1-5d3a-4cef-b1d5-6f4afd0dd7be
+[I 05:45:39.524 LabApp] Restoring connection for fd5014e0-e008-42bd-b925-a19e1a791110:1050fe7e-4392-49d6-b9da-5294908fa46f
+[I 05:45:39.540 LabApp] Restoring connection for 430e2f0c-71a6-4e71-88db-0be5f5811a6d:eb0340a9-27a8-4426-bade-059ed4f95627
+[I 05:45:39.555 LabApp] Restoring connection for f3632313-070d-4d8e-8b43-bfbc465879c5:f1677dbe-6dce-4c95-99e0-29077f8613c6
+[I 05:45:39.570 LabApp] Restoring connection for 4034cecb-2aad-4082-8397-95d19c6573b7:9bff8e3a-b4f3-4899-82f1-20c2bdbd3866
+[I 05:45:39.587 LabApp] Restoring connection for c7225c56-1819-4bdf-93e0-e8888a433ab4:d4c729e1-5d3a-4cef-b1d5-6f4afd0dd7be
+[I 06:02:59.805 LabApp] Starting buffering for c7225c56-1819-4bdf-93e0-e8888a433ab4:d4c729e1-5d3a-4cef-b1d5-6f4afd0dd7be
+[I 06:02:59.814 LabApp] Starting buffering for 4034cecb-2aad-4082-8397-95d19c6573b7:9bff8e3a-b4f3-4899-82f1-20c2bdbd3866
+[I 06:02:59.817 LabApp] Starting buffering for f3632313-070d-4d8e-8b43-bfbc465879c5:f1677dbe-6dce-4c95-99e0-29077f8613c6
+[I 06:02:59.818 LabApp] Starting buffering for 430e2f0c-71a6-4e71-88db-0be5f5811a6d:eb0340a9-27a8-4426-bade-059ed4f95627
+[I 06:02:59.826 LabApp] Starting buffering for fd5014e0-e008-42bd-b925-a19e1a791110:1050fe7e-4392-49d6-b9da-5294908fa46f
+[I 06:03:01.350 LabApp] Restoring connection for c7225c56-1819-4bdf-93e0-e8888a433ab4:d4c729e1-5d3a-4cef-b1d5-6f4afd0dd7be
+[I 06:03:01.370 LabApp] Restoring connection for 4034cecb-2aad-4082-8397-95d19c6573b7:9bff8e3a-b4f3-4899-82f1-20c2bdbd3866
+[I 06:03:01.384 LabApp] Restoring connection for f3632313-070d-4d8e-8b43-bfbc465879c5:f1677dbe-6dce-4c95-99e0-29077f8613c6
+[I 06:03:01.399 LabApp] Restoring connection for 430e2f0c-71a6-4e71-88db-0be5f5811a6d:eb0340a9-27a8-4426-bade-059ed4f95627
+[I 06:03:01.413 LabApp] Restoring connection for fd5014e0-e008-42bd-b925-a19e1a791110:1050fe7e-4392-49d6-b9da-5294908fa46f
+[I 06:50:10.976 LabApp] Starting buffering for fd5014e0-e008-42bd-b925-a19e1a791110:1050fe7e-4392-49d6-b9da-5294908fa46f
+[I 06:50:10.980 LabApp] Starting buffering for 430e2f0c-71a6-4e71-88db-0be5f5811a6d:eb0340a9-27a8-4426-bade-059ed4f95627
+[I 06:50:10.982 LabApp] Starting buffering for f3632313-070d-4d8e-8b43-bfbc465879c5:f1677dbe-6dce-4c95-99e0-29077f8613c6
+[I 06:50:10.983 LabApp] Starting buffering for 4034cecb-2aad-4082-8397-95d19c6573b7:9bff8e3a-b4f3-4899-82f1-20c2bdbd3866
+[I 06:50:10.988 LabApp] Starting buffering for c7225c56-1819-4bdf-93e0-e8888a433ab4:d4c729e1-5d3a-4cef-b1d5-6f4afd0dd7be
+[I 06:50:13.133 LabApp] Restoring connection for fd5014e0-e008-42bd-b925-a19e1a791110:1050fe7e-4392-49d6-b9da-5294908fa46f
+[I 06:50:13.159 LabApp] Restoring connection for 430e2f0c-71a6-4e71-88db-0be5f5811a6d:eb0340a9-27a8-4426-bade-059ed4f95627
+[I 06:50:13.185 LabApp] Restoring connection for f3632313-070d-4d8e-8b43-bfbc465879c5:f1677dbe-6dce-4c95-99e0-29077f8613c6
+[I 06:50:13.219 LabApp] Restoring connection for 4034cecb-2aad-4082-8397-95d19c6573b7:9bff8e3a-b4f3-4899-82f1-20c2bdbd3866
+[I 06:50:13.262 LabApp] Restoring connection for c7225c56-1819-4bdf-93e0-e8888a433ab4:d4c729e1-5d3a-4cef-b1d5-6f4afd0dd7be
+[I 17:22:26.570 LabApp] Starting buffering for c7225c56-1819-4bdf-93e0-e8888a433ab4:d4c729e1-5d3a-4cef-b1d5-6f4afd0dd7be
+[I 17:22:26.594 LabApp] Starting buffering for 4034cecb-2aad-4082-8397-95d19c6573b7:9bff8e3a-b4f3-4899-82f1-20c2bdbd3866
+[I 17:22:26.642 LabApp] Starting buffering for f3632313-070d-4d8e-8b43-bfbc465879c5:f1677dbe-6dce-4c95-99e0-29077f8613c6
+[I 17:22:26.662 LabApp] Starting buffering for 430e2f0c-71a6-4e71-88db-0be5f5811a6d:eb0340a9-27a8-4426-bade-059ed4f95627
+[I 17:22:26.819 LabApp] Starting buffering for fd5014e0-e008-42bd-b925-a19e1a791110:1050fe7e-4392-49d6-b9da-5294908fa46f
+[I 17:22:28.243 LabApp] Restoring connection for c7225c56-1819-4bdf-93e0-e8888a433ab4:d4c729e1-5d3a-4cef-b1d5-6f4afd0dd7be
+[I 17:22:28.266 LabApp] Restoring connection for 4034cecb-2aad-4082-8397-95d19c6573b7:9bff8e3a-b4f3-4899-82f1-20c2bdbd3866
+[I 17:22:28.287 LabApp] Restoring connection for f3632313-070d-4d8e-8b43-bfbc465879c5:f1677dbe-6dce-4c95-99e0-29077f8613c6
+[I 17:22:28.301 LabApp] Restoring connection for 430e2f0c-71a6-4e71-88db-0be5f5811a6d:eb0340a9-27a8-4426-bade-059ed4f95627
+[I 17:22:28.316 LabApp] Restoring connection for fd5014e0-e008-42bd-b925-a19e1a791110:1050fe7e-4392-49d6-b9da-5294908fa46f
+[I 17:28:50.273 LabApp] Starting buffering for fd5014e0-e008-42bd-b925-a19e1a791110:1050fe7e-4392-49d6-b9da-5294908fa46f
+[I 17:28:50.281 LabApp] Starting buffering for 430e2f0c-71a6-4e71-88db-0be5f5811a6d:eb0340a9-27a8-4426-bade-059ed4f95627
+[I 17:28:50.299 LabApp] Starting buffering for f3632313-070d-4d8e-8b43-bfbc465879c5:f1677dbe-6dce-4c95-99e0-29077f8613c6
+[I 17:28:50.303 LabApp] Starting buffering for c7225c56-1819-4bdf-93e0-e8888a433ab4:d4c729e1-5d3a-4cef-b1d5-6f4afd0dd7be
+[I 17:28:50.304 LabApp] Starting buffering for 4034cecb-2aad-4082-8397-95d19c6573b7:9bff8e3a-b4f3-4899-82f1-20c2bdbd3866
+[I 17:28:51.753 LabApp] Restoring connection for fd5014e0-e008-42bd-b925-a19e1a791110:1050fe7e-4392-49d6-b9da-5294908fa46f
+[I 17:28:51.775 LabApp] Restoring connection for 430e2f0c-71a6-4e71-88db-0be5f5811a6d:eb0340a9-27a8-4426-bade-059ed4f95627
+[I 17:28:51.798 LabApp] Restoring connection for f3632313-070d-4d8e-8b43-bfbc465879c5:f1677dbe-6dce-4c95-99e0-29077f8613c6
+[I 17:28:51.813 LabApp] Restoring connection for c7225c56-1819-4bdf-93e0-e8888a433ab4:d4c729e1-5d3a-4cef-b1d5-6f4afd0dd7be
+[I 17:28:51.914 LabApp] Restoring connection for 4034cecb-2aad-4082-8397-95d19c6573b7:9bff8e3a-b4f3-4899-82f1-20c2bdbd3866
+[I 17:32:31.983 LabApp] Starting buffering for 4034cecb-2aad-4082-8397-95d19c6573b7:9bff8e3a-b4f3-4899-82f1-20c2bdbd3866
+[I 17:32:32.029 LabApp] Starting buffering for c7225c56-1819-4bdf-93e0-e8888a433ab4:d4c729e1-5d3a-4cef-b1d5-6f4afd0dd7be
+[I 17:32:32.072 LabApp] Starting buffering for f3632313-070d-4d8e-8b43-bfbc465879c5:f1677dbe-6dce-4c95-99e0-29077f8613c6
+[I 17:32:32.075 LabApp] Starting buffering for 430e2f0c-71a6-4e71-88db-0be5f5811a6d:eb0340a9-27a8-4426-bade-059ed4f95627
+[I 17:32:32.077 LabApp] Starting buffering for fd5014e0-e008-42bd-b925-a19e1a791110:1050fe7e-4392-49d6-b9da-5294908fa46f
+[I 17:32:33.529 LabApp] Restoring connection for 4034cecb-2aad-4082-8397-95d19c6573b7:9bff8e3a-b4f3-4899-82f1-20c2bdbd3866
+[I 17:32:33.547 LabApp] Restoring connection for c7225c56-1819-4bdf-93e0-e8888a433ab4:d4c729e1-5d3a-4cef-b1d5-6f4afd0dd7be
+[I 17:32:33.564 LabApp] Restoring connection for f3632313-070d-4d8e-8b43-bfbc465879c5:f1677dbe-6dce-4c95-99e0-29077f8613c6
+[I 17:32:33.591 LabApp] Restoring connection for 430e2f0c-71a6-4e71-88db-0be5f5811a6d:eb0340a9-27a8-4426-bade-059ed4f95627
+[I 17:32:33.614 LabApp] Restoring connection for fd5014e0-e008-42bd-b925-a19e1a791110:1050fe7e-4392-49d6-b9da-5294908fa46f

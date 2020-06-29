@@ -48,7 +48,38 @@ class ViewController: UIViewController {
     super.didReceiveMemoryWarning()
     print(#function)
   }
+    
+    
+    // 顔認識のモジュールテスト
+    func facedetect(){
+    
+       // self.image = UIImage(named: "test.jpg")
+    //predict(image: UIImage(named: "dog416.jpg")!); return
 
+    /*
+      
+      // 顔検出用のリクエストを生成
+      let request = VNDetectFaceRectanglesRequest { (request: VNRequest, error: Error?) in
+
+          for observation in request.results as! [VNFaceObservation] {
+              
+              // 枠線を描画する
+              self.drawRect(box:observation.boundingBox)
+          }
+      }
+      
+      // 顔検出開始
+      if let cgImage = image.cgImage {
+          let handler = VNImageRequestHandler(cgImage: cgImage, options: [:])
+          try? handler.perform([request])
+      }
+     */
+        
+    }
+    
+    
+    
+    
     
    // 喫煙者を見つけたら音を鳴らす機能
    func playSound() {
@@ -234,7 +265,7 @@ class ViewController: UIViewController {
         self.show(predictions: boundingBoxes)
 
         let fps = self.measureFPS()
-        self.timeLabel.text = String(format: "Elapsed %.5f seconds - %.2f FPS", elapsed, fps)
+        self.timeLabel.text = String(format: "計算時間 %.5f seconds - %.1f フレーム/秒", elapsed, fps)
       }
     }
   }
@@ -259,7 +290,6 @@ class ViewController: UIViewController {
         
         // ボトルが見つかった時の処理
         print(labels[prediction.classIndex])
-        
         if labels[prediction.classIndex]=="bottle" {
         
             
@@ -300,30 +330,14 @@ class ViewController: UIViewController {
 }
 
 
-// ここに、顔認識のファンクションを記載したい。
-/*
-func leftEyebrow() {
-    let request = VNDetectFaceLandmarksRequest { (request, error) in
-        for observation in request.results as! [VNFaceObservation] {
-            let points = observation.landmarks?.leftEyebrow?.pointsInImage(imageSize: image.frame.size //self.originalImageView.frame.size
-               
-            )
-
-            // points（CGPointの配列）で、imageViewに描画していくなどの処理を行う
-        }
-    }
-    if let cgImage = self.originalImageView.image?.cgImage {
-        let handler = VNImageRequestHandler(cgImage: cgImage, options: [:])
-        try? handler.perform([request])
-    }
-}
-*/
 
 extension ViewController: VideoCaptureDelegate {
   func videoCapture(_ capture: VideoCapture, didCaptureVideoFrame pixelBuffer: CVPixelBuffer?, timestamp: CMTime) {
     // For debugging.
-    //predict(image: UIImage(named: "dog416")!); return
+    //■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 
+    //predict(image: UIImage(named: "dog416.jpg")!); return
+    //■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
     if let pixelBuffer = pixelBuffer {
       // The semaphore will block the capture queue and drop frames when
       // Core ML can't keep up with the camera.
